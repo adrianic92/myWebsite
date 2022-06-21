@@ -1,5 +1,5 @@
 const h2 = document.createElement("h2");
-h2.textContent = "Hello, world. This is my first website.";
+h2.textContent = "Hello, World. This is my first website.";
 document.querySelector("body").appendChild(h2);
 
 document.getElementById("hulk").onmouseover = function() {mouseOver()};
